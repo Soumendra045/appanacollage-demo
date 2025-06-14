@@ -1,4 +1,4 @@
 # appanacollage-demo
 This  is first Repo
 <br>
-Author - Soumendra
+Author - Soumendra Rout
